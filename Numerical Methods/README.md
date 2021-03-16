@@ -1,6 +1,6 @@
 ## Выполненные лабораторные работы по курсу **_Численные Методы_**
 
-### [Условия лабораторных работ][1]
+### [Условия лабораторных работ](https://github.com/anonimneyshiy/Bauman-Moscow-State-Technical-University/blob/master/Numerical%20Methods/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%20%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%BC%202020.pdf)
 
 ### Структура лабораторных работ:
 #### [Часть 1:][2]
@@ -19,7 +19,6 @@
 - 3.1 Численное интегрирование функций одной переменной
 - 3.2 Численное интегрирование обыкновенных дифференциальных уравнений или их систем
 
-[1]:(https://github.com/anonimneyshiy/Bauman-Moscow-State-Technical-University/blob/master/Numerical%20Methods/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%20%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%BC%202020.pdf)
 [2]:(https://github.com/anonimneyshiy/Bauman-Moscow-State-Technical-University/tree/master/Numerical%20Methods/Part_1)
 [3]:(https://github.com/anonimneyshiy/Bauman-Moscow-State-Technical-University/tree/master/Numerical%20Methods/Part_2)
 [4]:(https://github.com/anonimneyshiy/Bauman-Moscow-State-Technical-University/tree/master/Numerical%20Methods/Part_3)
